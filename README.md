@@ -20,5 +20,5 @@
 
 ## 联系
 
-GitHub: [@tanzhijir-04](https://github.com/tanzhijir-04)
-新浪微博：[zhijiegoat](https://weibo.com/u/6320044567)
+- GitHub: [@tanzhijir-04](https://github.com/tanzhijir-04)
+- 新浪微博：[zhijiegoat](https://weibo.com/u/6320044567)
