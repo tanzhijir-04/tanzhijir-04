@@ -1,5 +1,7 @@
 # Hi, I'm Zhijie Tan 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=tanzhijir-04&color=blueviolet&style=flat)
+
 本科在读，课余时间 vibe coding。主要做本地 AI 工具。
 
 
@@ -16,7 +18,7 @@
 
 ## 赞助
 
-觉得有用的话可以去 [爱发电](https://ifdian.net/a/tanz666/plan) 请我喝杯咖啡。
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-fd7e14?style=flat&logo=ko-fi&logoColor=white)](https://ifdian.net/a/tanz666/plan)  请我喝杯咖啡。
 
 ## Contribution Graph
 
@@ -24,5 +26,5 @@
 
 ## 联系
 
-- GitHub: [@tanzhijir-04](https://github.com/tanzhijir-04)
-- 新浪微博：[zhijiegoat](https://weibo.com/u/6320044567)
+
+[![Weibo](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-zhijiegoat-e6162d?style=flat&logo=sina-weibo&logoColor=white)](https://weibo.com/u/6320044567)
