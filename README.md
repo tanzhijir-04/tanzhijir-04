@@ -10,7 +10,9 @@
 - [知更·Paper](https://github.com/tanzhijir-04/papro) - 学术论文提示词生成器，配参数、管大纲、一键出 Prompt，部署在 [Cloudflare Pages](https://zgpaper.pages.dev/)。
 - [douban-poster-wall](https://github.com/tanzhijir-04/douban-poster-wall_V1.0.0) - 豆瓣用户的已看/未看作品组成的电影海报墙，参考了 Apple 的专辑墙屏保，[网页效果预览](https://tanzhijir-04.github.io/douban-poster-wall_V1.0.0/)。
 - [MindDesk](https://mind-desk.pages.dev/) - 个人工具站。
-- [genesis-mech-lab](https://github.com/tanzhijir-04/genesis-mech-lab) - 遗传算法进化四足机器人的 Web 仿真平台（Next.js + Three.js + Rapier 物理引擎）,当前 UI 框架和基础物理仿真已跑通，遗传算法流水线（选择→交叉→变异→繁殖）已完成。下一步是调校四足机器人的 RevoluteJoint 铰链，让腿真正驱动底盘稳定行走。
+- [genesis-mech-lab](https://github.com/tanzhijir-04/genesis-mech-lab) - 遗传算法进化仿真平台。
+- [FeedDeck](https://github.com/tanzhijir-04/FeedDeck) - 个人信息流仪表板。
+- [WinDevReady](https://github.com/tanzhijir-04/WinDevReady) - Windows 一键 AI 开发环境配置工具。
 
 项目都跑在本地，数据不过我的服务器。
 
