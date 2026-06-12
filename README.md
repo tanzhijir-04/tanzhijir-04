@@ -20,7 +20,8 @@
 
 ## 赞助
 
-[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-fd7e14?style=flat&logo=ko-fi&logoColor=white)](https://ifdian.net/a/tanz666/plan)  请我喝杯咖啡。
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-fd7e14?style=flat&logo=ko-fi&logoColor=white)](https://ifdian.net/a/tanz666/plan)  
+- 请我喝杯咖啡。
 
 ## Contribution Graph
 
