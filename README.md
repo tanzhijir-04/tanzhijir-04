@@ -9,7 +9,7 @@
 - [知更](https://github.com/tanzhijir-04/knower_dev) - 视频创作者的本地桌面工具，粘贴脚本就能生成 B 站/抖音/小红书的标题、标签、钩子文案，还能爬各平台数据做深度分析。
 - [知更·Paper](https://github.com/tanzhijir-04/papro) - 学术论文提示词生成器，配参数、管大纲、一键出 Prompt，部署在 [Cloudflare Pages](https://zgpaper.pages.dev/)。
 - [douban-poster-wall](https://github.com/tanzhijir-04/douban-poster-wall_V1.0.0) - 豆瓣用户的已看/未看作品组成的电影海报墙，参考了 Apple 的专辑墙屏保，[网页效果预览](https://tanzhijir-04.github.io/douban-poster-wall_V1.0.0/)。
-- [clause-light](github.com/tanzhijir-04/clause-light)- 合同红绿灯：上传合同（PDF / 照片），Agent 逐条分析风险，红黄绿三色标注哪些条款对你不利，给出通俗解释和修改建议。
+- [clause-light](https://github.com/tanzhijir-04/clause-light)- 合同红绿灯：上传合同（PDF / 照片），Agent 逐条分析风险，红黄绿三色标注哪些条款对你不利，给出通俗解释和修改建议。
 - [MindDesk](https://mind-desk.pages.dev/) - 个人工具站。
 - [genesis-mech-lab](https://github.com/tanzhijir-04/genesis-mech-lab) - 遗传算法进化仿真平台。
 - [FeedDeck](https://github.com/tanzhijir-04/FeedDeck) - 个人信息流仪表板。
