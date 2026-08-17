@@ -13,7 +13,7 @@
 - [douban-poster-wall](https://github.com/tanzhijir-04/douban-poster-wall_V1.0.0) - 豆瓣用户的已看/未看作品组成的电影海报墙，参考了 Apple 的专辑墙屏保，[网页效果预览](https://tanzhijir-04.github.io/douban-poster-wall_V1.0.0/)。
 - [MindDesk](https://mind-desk.pages.dev/) - 个人工具站。
 - [FeedDeck](https://github.com/tanzhijir-04/FeedDeck) - 个人信息流仪表板。
-- [WinDevReady](https://github.com/tanzhijir-04/WinDevReady) - Windows 一键 AI 开发环境配置工具。
+- [Envly](https://github.com/tanzhijir-04/Envly) - Windows/MacOS/Linux 一键开发环境配置工具。
 
 项目都跑在本地，数据不过我的服务器。
 
